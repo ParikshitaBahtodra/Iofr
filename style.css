@@ -1,0 +1,16 @@
+.heading{
+    width:80%;
+    font-size:25px;
+}
+body {
+    color:black;
+    background-color:rgb(71, 245, 230);
+}
+.name_of_object{
+    color:rgb(5, 0, 0);
+}
+#cam,#result{
+height:350px;
+width:350px;
+border:2px solid rgb(8, 0, 0);
+}
